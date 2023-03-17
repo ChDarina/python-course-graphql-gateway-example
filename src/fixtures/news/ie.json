@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": "Google News",
+      "author": "TheJournal.ie",
+      "title": "Gardaí appeal for public's help in finding missing 15-year-old boy - TheJournal.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnRoZWpvdXJuYWwuaWUvbWlzc2luZy1ib3ktNjAxNjQzOC1NYXIyMDIzL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-11T09:01:53Z",
+      "content": null
+    },
+    {
+      "id": 2,
+      "source": "Google News",
+      "author": "BreakingNews.ie",
+      "title": "Gary Lineker row: No presenter or pundits for Saturday's Match Of The Day - BreakingNews.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9zcG9ydC9uby1wcmVzZW50ZXItb3ItcHVuZGl0cy1mb3Itc2F0dXJkYXlzLW1hdGNoLW9mLXRoZS1kYXktYW1pZC1nYXJ5LWxpbmVrZXItcm93LTE0NDU5MjUuaHRtbNIBf2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvc3BvcnQvbm8tcHJlc2VudGVyLW9yLXB1bmRpdHMtZm9yLXNhdHVyZGF5cy1tYXRjaC1vZi10aGUtZGF5LWFtaWQtZ2FyeS1saW5la2VyLXJvdy0xNDQ1OTI1Lmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-11T07:58:01Z",
+      "content": null
+    },
+    {
+      "id": 3,
+      "source": "Google News",
+      "author": "RTE.ie",
+      "title": "Navan card cancelled after snow - RTE.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnJ0ZS5pZS9zcG9ydC9yYWNpbmcvMjAyMy8wMzExLzEzNjE1ODktbmF2YW4tY2FyZC1jYW5jZWxsZWQtYWZ0ZXItc25vdy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-11T07:53:37Z",
+      "content": null
+    }
+  ]
+}

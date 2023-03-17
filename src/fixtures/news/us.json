@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": "Fox Business",
+      "author": "Ken Martin",
+      "title": "Crypto firm Circle has $3.3B exposure to Silicon Valley Bank - Fox Business",
+      "description": "The cryptocurrency firm Circle says that $3.3 billion of its $40 billion USD Coin reserves are held by Silicon Valley Bank, a lender that was shutdown on Friday.",
+      "url": "https://www.foxbusiness.com/markets/crypto-firm-circle-3-3b-exposure-silicon-valley-bank",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/circle-logo-A.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-11T09:00:00Z",
+      "content": "Exposure in the collapse of lender Silicon Valley Bank is starting to be reported in the financial industry.\r\nThe cryptocurrency firm Circle has $3.3 billion of its $40 billion USD Coin reserves at t… [+1396 chars]"
+    },
+    {
+      "id": 2,
+      "source": "The Athletic",
+      "author": "Kevin Fishbain, Adam Jahns",
+      "title": "Bears-Panthers trade: Why the blockbuster move was the right call for GM Ryan Poles - The Athletic",
+      "description": "Adam Jahns and Kevin Fishbain talk through the trade — a potentially franchise-altering haul and a career-changing move for Poles.",
+      "url": "https://theathletic.com/4297113/2023/03/10/bears-panthers-trade-ryan-poles/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/03/10223407/GettyImages-1452817817-scaled-e1678505666496-1024x683.jpg",
+      "publishedAt": "2023-03-11T08:35:42Z",
+      "content": "When the Bears left the NFL Scouting Combine, the question wasnt whether they would trade the first pick.\r\nThe buzz had transformed into which team it would be and how much they would get for it.\r\nFr… [+5416 chars]"
+    },
+    {
+      "id": 3,
+      "source": "The Washington Post",
+      "author": "Kelsey Ables, Ellen Francis",
+      "title": "Russia-Ukraine war news: Nationwide outages continue after barrage - The Washington Post",
+      "description": "Fighting was escalating in the eastern city of Bakhmut, while the cities of Kharkiv and Kyiv worked to restore power supply.",
+      "url": "https://www.washingtonpost.com/world/2023/03/11/russia-ukraine-war-news/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMFE6F7ZJBH5ZHY7XV6POSYB34.JPG&w=1440",
+      "publishedAt": "2023-03-11T08:31:50Z",
+      "content": "The battle for the eastern city of Bakhmut has not let up. Ukraines deputy defense minister said fighting was escalating, while an aide to President Volodymyr Zelensky sounded an optimistic note abou… [+3349 chars]"
+    }
+  ]
+}

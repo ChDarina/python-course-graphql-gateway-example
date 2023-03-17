@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": "Google News",
+      "author": "Benchmark",
+      "title": "Microsoft Word dobio Zooming prečicu - Benchmark",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYmVuY2htYXJrLnJzL3Zlc3RpL3NvZnR2ZXItaS1zZXJ2aXNpL21pY3Jvc29mdC13b3JkLWRvYmlvLXpvb21pbmctcHJlY2ljdS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-11T10:41:11Z",
+      "content": null
+    },
+    {
+      "id": 2,
+      "source": "Google News",
+      "author": "Blic.rs",
+      "title": "Napadnuta medicinska sestra u Kliničkom centru - Blic.rs",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJsaWMucnMvdmVzdGkvaHJvbmlrYS9uYXBhZG51dGEtbWVkaWNpbnNrYS1zZXN0cmEtdS1rbGluaWNrb20tY2VudHJ1L2x5cnR4cjTSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-11T10:34:43Z",
+      "content": null
+    },
+    {
+      "id": 3,
+      "source": "Google News",
+      "author": "Kurir",
+      "title": "UŽIVO PREDSEDNIK VUČIĆ U VRANJU: Naša obaveza je da čuvamo državu, nacionalne interese, a ispred svega da čuva - Kurir",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lmt1cmlyLnJzL3Zlc3RpL3BvbGl0aWthLzQxMjI5MTAvcHJlZHNlZG5pay12dWNpYy11LXBjaW5qc2tvbS1va3J1Z3XSAURodHRwczovL3d3dy5rdXJpci5ycy9hbXAvNDEyMjkxMC9wcmVkc2VkbmlrLXZ1Y2ljLXUtcGNpbmpza29tLW9rcnVndQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-11T10:30:00Z",
+      "content": null
+    }
+  ]
+}
